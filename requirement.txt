@@ -1,0 +1,8 @@
+#for me:- I had to try a lot of ways to get the python nmap package so here I went ballistic so that you don't have to try different approach just brute-force all the possible combinations
+
+pip3 install python-nmap
+sudo pip3 install python-nmap
+sudo apt-get install python3-nmap
+sudo apt-get update
+sudo apt-get install python3-pip nmap
+pip3 install python-nmap scapy
